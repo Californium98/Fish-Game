@@ -5,7 +5,7 @@ import math
 import time
 
 pygame.init()
-
+#Hello and welcome to my first game!
 screen = pygame.display.set_mode((800, 600))
 pygame.display.set_caption('Fish Game')
 icon = pygame.image.load('animalright.png')
